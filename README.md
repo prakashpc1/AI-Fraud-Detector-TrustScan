@@ -30,5 +30,5 @@ TrustScan is an open-source security tool designed to help users identify fraudu
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/your-username/trustscan.git
+   https://github.com/prakashpc1/AI-Fraud-Detector-TrustScan.git
    cd trustscan
